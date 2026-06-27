@@ -18,7 +18,7 @@
 
 <div align="center">
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Fira+Code&ext=contest&border=0)](https://leetcode.com/saksham_d)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/saksham_d?theme=dark&font=Fira+Code&ext=contest&border=0)](https://leetcode.com/saksham_d)
 
 </div>
 
