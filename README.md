@@ -1,4 +1,3 @@
-# myleetcode
 
 <div align="center">
 
